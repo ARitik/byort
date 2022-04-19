@@ -1,0 +1,3 @@
+#+TITLE: Ray Tracer written using Rust
+#+AUTHOR: Ambadi Ritik Krishnan
+
